@@ -1,6 +1,6 @@
 ## Books
 
-### Linux Foundation 
+### Linux Foundation Education
 
 [LFS101 Introduction to Linux](./Books/LFS101.pdf)
 
