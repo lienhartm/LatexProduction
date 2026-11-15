@@ -8,6 +8,9 @@
 
 [LFS158 Introduction to Kubernetes](./Books/LFS158.pdf)
 
+[LFS180 Introduction to DevSecOps for Managers](./Books/LFS180.pdf)
+
+
 ### Markdown
 
 [Markdown Guide](./Books/Markdown.pdf)
