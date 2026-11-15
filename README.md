@@ -3,8 +3,6 @@
 ### Linux Foundation Education
 
 [LFS101 Introduction to Linux](./Books/LFS101.pdf)
- 
- : ljfljdshfldhflsqd
 
 [LFD110 Introduction to RISC-V](./Books/LFD110.pdf)
 
@@ -23,4 +21,4 @@
 
 ### OpenSCAD
 
-[Manuel](./Books/OpenSCAD.pdf)
+[OpenSCAD (Manuel + Référence du langage + Tutoriel](./Books/OpenSCAD.pdf)
