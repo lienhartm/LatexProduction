@@ -18,3 +18,7 @@
 ### Markdown
 
 [Markdown Guide](./Books/Markdown.pdf)
+
+### OpenSCAD
+
+[Manuel](./Books/OpenSCAD.pdf)
