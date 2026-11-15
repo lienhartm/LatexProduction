@@ -10,6 +10,8 @@
 
 [LFS180 Introduction to DevSecOps for Managers](./Books/LFS180.pdf)
 
+[LFS184 Introduction to JavaScript Security](./Books/LFS184.pdf)
+
 
 ### Markdown
 
